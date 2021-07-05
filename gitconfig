@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = christine.u.chan@gmail.com
+	name = Christine Chan
